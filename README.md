@@ -8,7 +8,7 @@ Simple GPIO demo for STM32F411RE Nucleo board:
 - **Board**: STM32F411RE Nucleo
 - **MCU**: STM32F411RET6
 - **Button**: PC13 (B1, active-low with external pull-down)
-- **LED**: PA5 (LD2, active-high)
+
 
 ## Setup (STM32CubeIDE)
 1. Generated with STM32CubeMX (HAL libraries)
